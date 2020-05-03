@@ -1,6 +1,10 @@
 # BMI Calculator 💪 | FLUTTER  
 ![Finished App](https://github.com/SherifR2ft/Images/blob/master/Images/BMI-Calculator-icon.png)
 
+## How to install
+
+To open the project inside Android Studio, simply clone the project from Github using VCS → Checkout from Version Control → Git.
+
 ## The Description
 
 Beautiful user interface designs , Simple application calculate Body Mass Index Using Flutter Framework.  
