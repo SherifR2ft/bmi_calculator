@@ -3,7 +3,8 @@
 
 ## How to install
 
-To open the project inside Android Studio, simply clone the project from Github using VCS → Checkout from Version Control → Git.
+To open the project inside Android Studio, simply clone the project from Github using
+VCS → Checkout from Version Control → Git.
 
 ## The Description
 
