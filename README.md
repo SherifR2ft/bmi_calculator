@@ -3,7 +3,7 @@
 
 ## How to install
 
-To open the project inside Android Studio, simply clone the project from Github using:
+To open the project inside Android Studio, simply clone the project from Github using,
 VCS → Checkout from Version Control → Git.
 
 ## The Description
@@ -27,4 +27,3 @@ a Body Mass Index Calculator inspired by the beautiful designs made by [Ruben Va
 - Customised Flutter Widgets to achieve a specific design style.
 - Dart Enums and the Ternary Operator.
 - Use the Flutter way of creating custom UI.
-
