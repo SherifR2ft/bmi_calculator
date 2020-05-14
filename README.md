@@ -10,14 +10,11 @@ VCS → Checkout from Version Control → Git.
 
 Beautiful user interface designs , Simple application calculate Body Mass Index Using Flutter Framework.  
 
-
-## What we created
-
 a Body Mass Index Calculator inspired by the beautiful designs made by [Ruben Vaalt](https://dribbble.com/shots/4585382-Simple-BMI-Calculator). It is a multi screen app with simple functionality but full-on custom styling. 
 
 ![Finished App](https://github.com/SherifR2ft/Images/blob/master/Images/BMI-Calculator-Flutter.gif)
 
-## What I use in this App. 
+## What we use in this App. 
 
 - Use Flutter themes to create coherent branding. 
 - Multi-page apps using Flutter Routes and Navigator.
